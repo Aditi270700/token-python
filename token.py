@@ -26,3 +26,9 @@ print("apple" > "banana")
 # it is called lexicographical comparision
 print("apple" > "applf")
 print("apple" == "apple")
+
+ # logical operator
+ #  or
+ # and
+ # not
+ 
